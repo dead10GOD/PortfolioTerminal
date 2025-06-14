@@ -403,7 +403,7 @@ export default function TerminalPortfolio() {
       <div ref={terminalRef} className="max-w-full sm:max-w-4xl mx-auto">
         {/* Terminal header */}
         <div className="text-green-300 mb-2 sm:mb-4 border-b border-green-800 pb-2">
-          <span className="text-green-400">➜</span> sankalp@portfolio:~
+          <span className="text-green-400">➜</span> prajapati@sankalp:~
         </div>
 
         {/* Command history */}
