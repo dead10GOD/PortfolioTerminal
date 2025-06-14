@@ -299,7 +299,7 @@ export default function TerminalPortfolio() {
     // },
 
     resume: () => {
-  window.open("https://drive.google.com/file/d/1RfJps5GucfugGJZ_uFinpb3V-RfILZlQ/view?usp=sharing", "_blank");
+  // window.open("https://drive.google.com/file/d/1RfJps5GucfugGJZ_uFinpb3V-RfILZlQ/view?usp=sharing", "_blank");
   return [
     "📄 Opening resume...",
     ". . . . . . .",
